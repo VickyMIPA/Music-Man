@@ -508,10 +508,10 @@ async def play(_, message: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Group Support", url="https://t.me/SharingUserbot"
+                        "Group", url="https://t.me/Peacheful"
                     ),
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner Music Vicky", url="https://instagram.com/pikipoi_"
                     )
                 ],
                 [       
@@ -643,10 +643,10 @@ async def deezer(client: Client, message_: Message):
              ],                     
              [
                     InlineKeyboardButton(
-                        "Group Support", url="https://t.me/SharingUserbot"
+                        "Group", url="https://t.me/Peacheful"
                     ),
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner Music Vicky", url="https://instagram.com/pikipoi_"
                     )
                 ],
              [       
@@ -779,10 +779,10 @@ async def jiosaavn(client: Client, message_: Message):
              ],                     
              [
                     InlineKeyboardButton(
-                        "Group Support", url="https://t.me/SharingUserbot"
+                        "Group", url="https://t.me/Peacheful"
                     ),
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner Music Vicky", url="https://instagram.com/pikipoi_"
                     )
                 ],
              [       
